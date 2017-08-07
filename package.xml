@@ -6,6 +6,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>TestObj2__c</members>
         <members>TestObj__c</members>
         <name>CustomObject</name>
     </types>
