@@ -10,4 +10,12 @@
         <members>TestObj__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Territory_Model_1</members>
+        <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>Territory_Type_1</members>
+        <name>Territory2Type</name>
+    </types>
 </Package>
