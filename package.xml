@@ -23,13 +23,46 @@
         <members>AR41_class5</members>
         <members>AR41_class6</members>
         <members>AR41_class8</members>
+        <members>AccountClass</members>
+        <members>AccountProfileTriggerHandler</members>
+        <members>AccountProfileTriggerHandler_Test</members>
         <members>ApxCls004</members>
         <members>Atest1</members>
         <members>B91</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>Classstartingeithsmallletter</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
+        <members>CommunitiesSelfRegConfirmController</members>
+        <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
+        <members>CommunitiesSelfRegControllerTest</members>
         <members>Diff</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>ForgotPasswordControllerTest1</members>
+        <members>ForgotPasswordControllerTest2</members>
+        <members>LightningForgotPasswordController</members>
+        <members>LightningForgotPasswordControllerTest</members>
+        <members>LightningLoginFormController</members>
+        <members>LightningLoginFormControllerTest</members>
+        <members>LightningSelfRegisterController</members>
+        <members>LightningSelfRegisterControllerTest</members>
         <members>Merge1</members>
+        <members>MyNewApexCls2</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
         <members>ST</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>TestApexCls</members>
         <members>TestCLass</members>
+        <members>Test_Account_class</members>
         <members>VijayApexClass2</members>
         <members>VijayApexClass3</members>
         <members>VijayApexClassTest1</members>
