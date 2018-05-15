@@ -93,6 +93,13 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SiteFooter</members>
+        <members>SiteHeader</members>
+        <members>SiteLogin</members>
+        <members>SitePoweredBy</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
         <members>page_3</members>
         <name>ApexPage</name>
     </types>
